@@ -3,7 +3,7 @@
 
 **Hello!** I'm currently at the 42 pool
 
-From September 15 → October 10 
+From September 15 → October 10 (2025) 
 
 💻 If you want to chat about **tech**, collaborate on **open-source projects**, or just say **hi** 👋, feel free to add me on Discord:
 
